@@ -1,0 +1,58 @@
+/*IMPORTANDO FONTES*/
+@import url('https://fonts.googleapis.com/css?family=Maven+Pro');
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhai');
+
+/*EDITANDO*/
+body
+{
+    background-color: #00BFFF;
+    padding: 2px;
+}
+
+h1
+{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Baloo Bhai', cursive;
+}
+
+p
+{
+    text-align: center;
+}
+
+input#result
+{
+    width: 100%
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+/*BOTÕES*/
+input#button
+{
+    width: 87%;
+    margin: 2px;
+    margin-left: 5%;
+    height: 50px;
+    font-size: 20px;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+input.operacoes
+{
+    background-color: #808080;
+    color: white;
+}
+
+input.igual
+{
+    background-color: #FFBF00;
+    color: white;
+}
+
+input.limpar
+{
+    background-color: #2E64FE;
+    color: white;
+}
